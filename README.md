@@ -1,7 +1,7 @@
-- My name is Graham and I'm a freshman at the University of Washington!
+- My name is Graham and I'm a second year at the University of Washington!
 - I'm interested in software and web development and I'm excited to share
-some of my stuff with you guys
--  🐸
+some of my stuff
+- I hope your day is going well🐸
 
 <!---
 gycobden/gycobden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
