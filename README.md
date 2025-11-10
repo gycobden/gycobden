@@ -1,5 +1,5 @@
 ![test](https://github.com/gycobden/gycobden/blob/main/serene-morning-reflection-of-mount-rainier-over-a-tranquil-lake-free-photo.jpeg)
-- My name is Graham and I'm a second year at the University of Washington!
+- My name is Graham and I'm a third year at the University of Washington!
 - I'm interested in software and web development and I'm excited to share
 some of my stuff
 - I hope your day is going well🐸
